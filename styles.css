@@ -1,0 +1,122 @@
+nav, li, a{ display: inline-block;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+header { width: 1400px;
+height: 78px;}
+
+a { color: black;
+text-decoration: none;
+margin-left: 20px;
+}
+
+
+
+.sign-in { 
+    margin-left: 50px;
+    background-color: white;
+    border-color: lightblue;
+    color: purple;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-style: outset;
+    border-radius: 6px;
+    border-width: 1px;
+}
+    
+
+    .sign-up { background-color: orange;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-style: outset;
+    border-radius: 6px;
+    border-width: 1px;}
+
+    .product { margin-left: 265px;}
+
+    .logo-pic {margin-left: 100px;
+    margin-top: 30px;}
+
+    section {
+        display:inline-block;
+        
+    }
+
+    .pic 
+    { margin-top: 10px;
+    margin-left: 100px;
+width: 1126px;
+height: 496px;}
+
+    h2 {
+font-weight: bolder;
+font-size: 36px;
+font-family: 'Roboto Condensed', sans-serif;
+margin-bottom: 0px;}
+
+        body {width: 1400px;}
+
+        .ye { width: 1095;
+        height: 204px;}
+
+        .margin {margin-left: 100px}
+
+        .margin-2 { margin-left:100px;
+        
+        ;}
+
+        .margin-4 { margin-left: -250px;}
+
+        .sign-up-now {background-color: orange;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+        border-radius: 6px;
+        border-width: 1px;;
+margin-top: 100px;
+margin-left: -1050px;
+margin-bottom: 225px;}
+
+p {font-family: 'Roboto Condensed', sans-serif;
+font-size: 16px;
+display: inline-block;
+margin-top: 10px;}
+
+
+.distance {margin-left: 310px;
+margin-top: 10px;
+margin-right: -200px;}
+
+.first {
+    margin-left: 310px;
+    margin-top: 25px;
+margin-right: -200px; }
+
+.sign-up-now1 {background-color: orange;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+border-radius: 6px;
+border-width: 1px;;
+margin-left: 750px;
+margin-top: 10px;
+}
+
+
+.block {display: block;}
